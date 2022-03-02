@@ -1,7 +1,13 @@
 console.log("Git - Workshop");
 
-const testSample = () => {
+const test = () => {
+  console.log("world");
+};
+
+test();
+
+const test = () => {
   console.log("Hello");
 };
 
-testSample();
+test();
